@@ -1,0 +1,2 @@
+# https://www.youtube.com/watch?v=IhJgguNiYYk&list=PLi9RQVmJD2fZxMEHWe4u1Yq86eHEZzS2m&index=1
+# https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWZ2VEh2OTZWNHd5NkoyeEVGal9Fc0t0UWhrQXxBQ3Jtc0tuWDE2a1NPNmFIYXA3Q3VnbTdvYXpuT0lFeTZWOVpXdmxpSkxBMVVrOE1WNVVNSzY0d1RjSHlHQUdSTlBjSGVPSlhGMkFySmF3SnlXMGhVemJCSWtUNkRXTDIzR0MxMmRRSGNrVHRxR3pobkpuZWhvMA&q=https%3A%2F%2Fleetcode.com%2Fproblems%2Fstring-compression%2F
